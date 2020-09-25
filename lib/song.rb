@@ -15,10 +15,10 @@ def self.artists
 end
 
 def self.genres
-  @@artists.uniq 
+  @@artists.uniq
 end
 
 
 
-
+end
   
