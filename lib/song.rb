@@ -53,7 +53,7 @@ def self.artist_count
     artist_count
   end
 
-  Song.genre_count
+  Song.genres = (["rap", "pop"])
 
 
 end
